@@ -7,6 +7,8 @@ public class A {
 		System.out.println("This is my 2nd GitHW!");
 		System.out.println("Modify Class");
 		System.out.println("Have a good Holiday");
+		System.out.println("This is my 2nd GitHW!");
+		System.out.println("My homework");
 	}
 
 }
